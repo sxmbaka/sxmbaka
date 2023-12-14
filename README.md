@@ -1,4 +1,6 @@
-[![An image of @sxmbaka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sxmbaka)](https://holopin.io/@sxmbaka)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/652eb4a3f43a58c923e0a42b?variant=dark&roadmaps=sql%2Cgolang%2Cjava%2Cflutter)](https://roadmap.sh)
+
+<!-- [![An image of @sxmbaka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sxmbaka)](https://holopin.io/@sxmbaka)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sxmbaka) [![GitHub](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sxmbaka/) [![GitHub](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sxmbaka) [![GitHub](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/742291056237871125) [![GitHub](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatharth.singhhh@gmail.com)
 
 <div align="center">
@@ -24,7 +26,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
 
 
-<!-- <div align="center">
+ <div align="center">
   <h2>GITHUB STATS</h2>
 
   <img src="https://github-readme-stats.vercel.app/api?username=sxmbaka&theme=react&hide_border=true&include_all_commits=false&count_private=false">
