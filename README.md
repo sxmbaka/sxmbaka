@@ -34,4 +34,3 @@
   <br>
   <img src="https://github-contributor-stats.vercel.app/api?username=sxmbaka&limit=5&theme=dracula&combine_all_yearly_contributions=true">
 </div> -->
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/652eb4a3f43a58c923e0a42b?variant=dark)](https://roadmap.sh)
