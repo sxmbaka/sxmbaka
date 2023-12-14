@@ -24,7 +24,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/652eb4a3f43a58c923e0a42b?variant=dark)](https://roadmap.sh)
 
 <!-- <div align="center">
   <h2>GITHUB STATS</h2>
